@@ -1,0 +1,6 @@
+{
+  "name": "VFD PLC SCADA Digital Twin - WASAC K56",
+  "description": "Industrial digital twin and SCADA simulation for VFD motor control, PLC ladder logic, water treatment lab telemetry, railway loop, and robotics for WASAC K56.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
